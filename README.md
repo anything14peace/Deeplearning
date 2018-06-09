@@ -1,2 +1,2 @@
 # Deeplearning
-Project about deep learning
+Hello, my name is Patrick. 
